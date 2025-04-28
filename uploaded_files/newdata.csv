@@ -1,0 +1,184 @@
+Day,Sales,Product,Price
+2024-01-01,100,Waffers,10
+2024-01-01,15,ALOE VERA GEL -150 ML,25
+2024-01-01,120,Aarogy Biscuits,10
+2024-01-02,150,Waffers,10
+2024-01-02,18,ALOE VERA GEL -150 ML,25
+2024-01-02,125,Aarogy Biscuits,10
+2024-01-03,200,Waffers,10
+2024-01-03,20,ALOE VERA GEL -150 ML,25
+2024-01-03,130,Aarogy Biscuits,10
+2024-01-04,180,Waffers,10
+2024-01-04,18,boro plus cream 40ml,25
+2024-01-04,128,Aarogy Biscuits,10
+2024-01-05,175,Waffers,10
+2024-01-05,16,Bournvita 75g,50
+2024-01-05,135,Aarogy Biscuits,10
+2024-01-06,190,Waffers,10
+2024-01-06,20,Butter Milk Masala,10
+2024-01-06,140,Aarogy Biscuits,10
+2024-01-07,185,Waffers,10
+2024-01-07,22,Cadbury Fuse 30g,20
+2024-01-07,138,Aarogy Biscuits,10
+2024-01-08,195,Waffers,10
+2024-01-08,19,Colgate Max Fresh,100
+2024-01-08,142,Aarogy Biscuits,10
+2024-01-09,210,Waffers,10
+2024-01-09,25,Dettol Handwash,100
+2024-01-09,145,Aarogy Biscuits,10
+2024-01-10,205,Waffers,10
+2024-01-10,23,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-01-10,148,Aarogy Biscuits,10
+2024-01-11,215,Waffers,10
+2024-01-11,24,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-01-11,150,Aarogy Biscuits,10
+2024-01-12,220,Waffers,10
+2024-01-12,26,Dettol Handwash,100
+2024-01-12,152,Aarogy Biscuits,10
+2024-01-13,225,Waffers,10
+2024-01-13,21,Butter Milk Masala,10
+2024-01-13,155,Aarogy Biscuits,10
+2024-01-14,230,Waffers,10
+2024-01-14,23,Cadbury Fuse 30g,20
+2024-01-14,158,Aarogy Biscuits,10
+2024-01-15,235,Waffers,10
+2024-01-15,20,Colgate Max Fresh,100
+2024-01-15,160,Aarogy Biscuits,10
+2024-01-16,240,Waffers,10
+2024-01-16,27,Dettol Handwash,100
+2024-01-16,162,Aarogy Biscuits,10
+2024-01-17,245,Waffers,10
+2024-01-17,25,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-01-17,165,Aarogy Biscuits,10
+2024-01-18,250,Waffers,10
+2024-01-18,19,boro plus cream 40ml,25
+2024-01-18,168,Aarogy Biscuits,10
+2024-01-19,255,Waffers,10
+2024-01-19,17,Bournvita 75g,50
+2024-01-19,170,Aarogy Biscuits,10
+2024-01-20,260,Waffers,10
+2024-01-20,22,Butter Milk Masala,10
+2024-01-20,172,Aarogy Biscuits,10
+2024-01-21,265,Waffers,10
+2024-01-21,24,Cadbury Fuse 30g,20
+2024-01-21,175,Aarogy Biscuits,10
+2024-01-22,270,Waffers,10
+2024-01-22,21,Colgate Max Fresh,100
+2024-01-22,178,Aarogy Biscuits,10
+2024-01-23,275,Waffers,10
+2024-01-23,28,Dettol Handwash,100
+2024-01-23,180,Aarogy Biscuits,10
+2024-01-24,280,Waffers,10
+2024-01-24,26,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-01-24,182,Aarogy Biscuits,10
+2024-01-25,285,Waffers,10
+2024-01-25,20,boro plus cream 40ml,25
+2024-01-25,185,Aarogy Biscuits,10
+2024-01-26,290,Waffers,10
+2024-01-26,18,Bournvita 75g,50
+2024-01-26,188,Aarogy Biscuits,10
+2024-01-27,295,Waffers,10
+2024-01-27,23,Butter Milk Masala,10
+2024-01-27,190,Aarogy Biscuits,10
+2024-01-28,300,Waffers,10
+2024-01-28,25,Cadbury Fuse 30g,20
+2024-01-28,192,Aarogy Biscuits,10
+2024-01-29,305,Waffers,10
+2024-01-29,22,Colgate Max Fresh,100
+2024-01-29,195,Aarogy Biscuits,10
+2024-01-30,310,Waffers,10
+2024-01-30,29,Dettol Handwash,100
+2024-01-30,198,Aarogy Biscuits,10
+2024-01-31,315,Waffers,10
+2024-01-31,27,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-01-31,200,Aarogy Biscuits,10
+2024-02-01,320,Waffers,10
+2024-02-01,21,boro plus cream 40ml,25
+2024-02-01,202,Aarogy Biscuits,10
+2024-02-02,325,Waffers,10
+2024-02-02,19,Bournvita 75g,50
+2024-02-02,205,Aarogy Biscuits,10
+2024-02-03,330,Waffers,10
+2024-02-03,24,Butter Milk Masala,10
+2024-02-03,208,Aarogy Biscuits,10
+2024-02-04,335,Waffers,10
+2024-02-04,26,Cadbury Fuse 30g,20
+2024-02-04,210,Aarogy Biscuits,10
+2024-02-05,340,Waffers,10
+2024-02-05,23,Colgate Max Fresh,100
+2024-02-05,212,Aarogy Biscuits,10
+2024-02-06,345,Waffers,10
+2024-02-06,30,Dettol Handwash,100
+2024-02-06,215,Aarogy Biscuits,10
+2024-02-07,350,Waffers,10
+2024-02-07,28,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-02-07,218,Aarogy Biscuits,10
+2024-02-08,355,Waffers,10
+2024-02-08,22,boro plus cream 40ml,25
+2024-02-08,220,Aarogy Biscuits,10
+2024-02-09,360,Waffers,10
+2024-02-09,20,Bournvita 75g,50
+2024-02-09,222,Aarogy Biscuits,10
+2024-02-10,365,Waffers,10
+2024-02-10,25,Butter Milk Masala,10
+2024-02-10,225,Aarogy Biscuits,10
+2024-02-11,370,Waffers,10
+2024-02-11,27,Cadbury Fuse 30g,20
+2024-02-11,228,Aarogy Biscuits,10
+2024-02-12,375,Waffers,10
+2024-02-12,24,Colgate Max Fresh,100
+2024-02-12,230,Aarogy Biscuits,10
+2024-02-13,380,Waffers,10
+2024-02-13,31,Dettol Handwash,100
+2024-02-13,232,Aarogy Biscuits,10
+2024-02-14,385,Waffers,10
+2024-02-14,29,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-02-14,235,Aarogy Biscuits,10
+2024-02-15,390,Waffers,10
+2024-02-15,23,boro plus cream 40ml,25
+2024-02-15,238,Aarogy Biscuits,10
+2024-02-16,395,Waffers,10
+2024-02-16,21,Bournvita 75g,50
+2024-02-16,240,Aarogy Biscuits,10
+2024-02-17,400,Waffers,10
+2024-02-17,26,Butter Milk Masala,10
+2024-02-17,242,Aarogy Biscuits,10
+2024-02-18,405,Waffers,10
+2024-02-18,28,Cadbury Fuse 30g,20
+2024-02-18,245,Aarogy Biscuits,10
+2024-02-19,410,Waffers,10
+2024-02-19,25,Colgate Max Fresh,100
+2024-02-19,248,Aarogy Biscuits,10
+2024-02-20,415,Waffers,10
+2024-02-20,32,Dettol Handwash,100
+2024-02-20,250,Aarogy Biscuits,10
+2024-02-21,420,Waffers,10
+2024-02-21,30,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-02-21,252,Aarogy Biscuits,10
+2024-02-22,425,Waffers,10
+2024-02-22,24,boro plus cream 40ml,25
+2024-02-22,255,Aarogy Biscuits,10
+2024-02-23,430,Waffers,10
+2024-02-23,22,Bournvita 75g,50
+2024-02-23,258,Aarogy Biscuits,10
+2024-02-24,435,Waffers,10
+2024-02-24,27,Butter Milk Masala,10
+2024-02-24,260,Aarogy Biscuits,10
+2024-02-25,440,Waffers,10
+2024-02-25,29,Cadbury Fuse 30g,20
+2024-02-25,262,Aarogy Biscuits,10
+2024-02-26,445,Waffers,10
+2024-02-26,26,Colgate Max Fresh,100
+2024-02-26,265,Aarogy Biscuits,10
+2024-02-27,450,Waffers,10
+2024-02-27,33,Dettol Handwash,100
+2024-02-27,268,Aarogy Biscuits,10
+2024-02-28,455,Waffers,10
+2024-02-28,31,EVEREST CHHOLE MASALA (50 GRMS),20
+2024-02-28,270,Aarogy Biscuits,10
+2024-02-29,460,Waffers,10
+2024-02-29,25,boro plus cream 40ml,25
+2024-02-29,272,Aarogy Biscuits,10
+2024-03-01,465,Waffers,10
+2024-03-01,23,Bournvita 75g,50
+2024-03-01,275,Aarogy Biscuits,10

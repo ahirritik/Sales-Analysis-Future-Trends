@@ -1,0 +1,30 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+from statsmodels.tsa.arima.model import ARIMA
+
+# Load the data
+data = pd.read_csv('newdata.csv')
+data['Day'] = pd.to_datetime(data['Day'])
+data = data.sort_values('Day')
+
+# Group by Day if multiple products exist
+daily_sales = data.groupby('Day')['Sales'].sum()
+
+# Fit ARIMA model
+# (p, d, q) are ARIMA parameters. (1,1,1) is a safe starting point.
+model = ARIMA(daily_sales, order=(1, 1, 1))
+model_fit = model.fit()
+
+# Forecast next 30 days
+forecast = model_fit.forecast(steps=30)
+
+# Plot
+plt.figure(figsize=(10,5))
+plt.plot(daily_sales, label='Original Sales')
+plt.plot(pd.date_range(daily_sales.index[-1] + pd.Timedelta(days=1), periods=30, freq='D'), forecast, label='Forecast')
+plt.legend()
+plt.title('Sales Forecast using ARIMA')
+plt.xlabel('Date')
+plt.ylabel('Sales')
+plt.grid()
+plt.show()
